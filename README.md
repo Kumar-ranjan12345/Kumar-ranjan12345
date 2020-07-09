@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps , cloud services , machine learning on Azure/AWS .
 - 🤔 I’m looking for help with ...
 - 💬 Discuss with me about ... Machine Learning , Deep Learning
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/  , kumar.ranjan.kamila@gmail.com
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I like cooking .
 -->

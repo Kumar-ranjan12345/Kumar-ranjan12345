@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 ### Hi there 👋 Kumar here...
 - 🔭 I’m currently working on  Machine Learning/Deep Learning projects .
 - 🌱 I’m currently learning  **DevOps , cloud services ,  machine learning on Azure/AWS**.
-- 🤔 I’m looking for help with machine learning.
 - 📫 How to reach me: 📱[linkedin](https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/)  , ✉️[mail](kumar.ranjan.kamila@gmail.com)
 - 😄 Pronouns: He/ Him / His
 - 📝 My Blog Channel: [QuickBlogs](https://askdiaries.blogspot.com/)

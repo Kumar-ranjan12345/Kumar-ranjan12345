@@ -1,5 +1,5 @@
-![Image of hii](https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif)
-<!--
+<!--![Image of hii](https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif)
+
 **Kumar-ranjan12345/Kumar-ranjan12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

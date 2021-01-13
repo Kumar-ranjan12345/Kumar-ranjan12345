@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 Kumar here...
 - 📫 How to reach me: 📱[linkedin](https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/)  , ✉️[mail](kumar.ranjan.kamila@gmail.com)
-
+- I have keen interest in software development , web technologies and also in competitive programming .

@@ -1,4 +1,4 @@
-<h2> Hi, I'm Kumar! <img src="https://raw.githubusercontent.com/gist/ankit986/5726427cd7e9f181ec04e3e176b2dbcc/raw/6e6af77cec50089a21bd287659150e8a842bff98/hello.gif" width="60"></h2>
+<h2> Hi, I'm Kumar! <img src="https://raw.githubusercontent.com/gist/ankit986/5726427cd7e9f181ec04e3e176b2dbcc/raw/6e6af77cec50089a21bd287659150e8a842bff98/hello.gif" width="80"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 

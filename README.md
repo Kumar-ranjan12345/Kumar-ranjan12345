@@ -9,7 +9,7 @@ And also optimisitic, curious and well-focused . :sparkles: <br>
 /*I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>*/
 Besides competitive coding, I like drawing :marker: and sleeping :sleeping:
 
-- :technologies: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, REST APi's, Python(basic)
+- :male_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, REST APi's, Python(basic)
 - :cloud: Technologies: AWS
 
 

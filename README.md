@@ -5,7 +5,8 @@
 I am a pre-final year student at NIT, Rourkela, pursuing my Bachelors in Electrical Engineering.<br>
 And also optimisitic, curious and well-focused . :sparkles: <br>
 
-Besides competitive coding, I like drawing :pencil2: and sleeping :sleeping:.i like solving problems on codeforces.
+Besides competitive coding, I like drawing :pencil2: and sleeping :sleeping:. I like solving problems
+on codeforces.
 
 - :man_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, REST APi's, Python(basic)
 - :cloud: Technologies: AWS

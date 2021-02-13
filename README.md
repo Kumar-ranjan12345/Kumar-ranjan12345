@@ -1,4 +1,4 @@
-<h2> Hi, I'm Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kumar! <img src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 

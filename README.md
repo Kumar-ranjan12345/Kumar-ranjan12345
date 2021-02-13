@@ -5,9 +5,7 @@
 I am a pre-final year student at NIT, Rourkela, pursuing my Bachelors in Electrical Engineering.<br>
 And also optimisitic, curious and well-focused . :sparkles: <br>
 
-
-/*I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>*/
-Besides competitive coding, I like drawing :marker: and sleeping :sleeping:
+Besides competitive coding, I like drawing :pencil2: and sleeping :sleeping:
 
 - :man_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, REST APi's, Python(basic)
 - :cloud: Technologies: AWS

@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kumar! <img src="https://media.giphy.com/media/l41lVwqgLWHbGRyFO/giphy.gif" width="80"></h2>
 
-<img align='right' src="https://media.giphy.com/media/VGJv7rIjvClmtdBeLg/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ekLx7GfgLwrI6Nh7qn/giphy.gif" width="230">
 
 I am a pre-final year student at NIT, Rourkela, pursuing my Bachelors in Electrical Engineering.<br>
 And also optimisitic, curious and well-focused . :sparkles: <br>

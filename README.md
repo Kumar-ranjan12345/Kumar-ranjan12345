@@ -1,18 +1,6 @@
-<h2> Hi, I'm Kumar! <img src="https://media.giphy.com/media/l41lVwqgLWHbGRyFO/giphy.gif" width="80"></h2>
+<h2> Hi, I'm Kumar! </h2>
 
-I am a pre-final year student at NIT, Rourkela, pursuing my Bachelors in Electrical Engineering.<br>
-And also optimisitic, curious and well-focused . :sparkles: <br>
-
-Besides competitive coding, I like drawing :pencil2: and sleeping :sleeping:. I like solving problems
-on codeforces.
-
-- :man_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, REST APi's, Python(basic)
-- :cloud: Technologies: AWS
-
-
-<a href="https://twitter.com/KumarRanjanKam1">
-  <img align="left" alt="Kumar's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
+- :man_technologist: Code: HTML, CSS, JavaScript, React, Node.js, C++, React-Native, Android
 
 <a href="https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/">
   <img align="left" alt="Kumar's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>

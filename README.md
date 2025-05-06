@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kumar! </h2>
 
-- :man_technologist: Code: HTML, CSS, JavaScript, React, Node.js, C++, React-Native, Android
+- :man_technologist: Code: Android, Kotlin, Java, iOS , Xcode, Android Studio, Kubernetes, C++, React-Native(Basics), Git, Swift
 
 <a href="https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/">
   <img align="left" alt="Kumar's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>

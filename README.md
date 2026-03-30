@@ -42,7 +42,7 @@ Mobile-focused engineer with hands-on experience building and shipping native An
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kumar-ranjan1234&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kumar-ranjan12345&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-ranjan12345&layout=compact&theme=github_dark&hide_border=true"/>
 </div>

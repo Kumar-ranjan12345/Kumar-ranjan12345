@@ -15,7 +15,7 @@
 
 ### About
 
-Mobile-focused engineer with hands-on experience building and shipping native Android and iOS applications. I care about clean architecture, performance, and code that scales — not just code that works.
+Mobile-focused engineer with hands-on experience building and shipping native Android and iOS applications. I care about clean architecture, performance, and code that scales.
 
 ---
 
@@ -34,7 +34,6 @@ Mobile-focused engineer with hands-on experience building and shipping native An
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -43,7 +42,7 @@ Mobile-focused engineer with hands-on experience building and shipping native An
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kumar-ranjan1234&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kumar Ranjan Kamila</h1>
-  <p>Mobile Engineer · Android & iOS · Building production-grade native apps</p>
+  <p>SOftware Developer(Mobile) · Android & iOS · Building production-grade native apps</p>
 
   <a href="https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,7 +30,7 @@ Mobile-focused engineer with hands-on experience building and shipping native An
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Tools & Infra**
+**Tools**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)

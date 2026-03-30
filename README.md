@@ -15,7 +15,7 @@
 
 ### About
 
-Mobile-focused engineer with hands-on experience building and shipping native Android and iOS applications. I care about clean architecture, performance, and code that scales.
+Mobile-focused engineer with hands-on experience building and shipping native Android and iOS applications. I care about clean architecture, performance, and code that scales — and currently expanding into backend to understand the full stack my apps depend on.
 
 ---
 

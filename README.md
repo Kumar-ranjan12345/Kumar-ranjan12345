@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kumar Ranjan Kamila</h1>
-  <p>SOftware Developer(Mobile) · Android & iOS · Building production-grade native apps</p>
+  <p>Software Developer (Mobile) · Android & iOS · Building production-grade native apps</p>
 
   <a href="https://www.linkedin.com/in/kumar-ranjan-kamila-a28612187/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -36,16 +36,6 @@ Mobile-focused engineer with hands-on experience building and shipping native An
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kumar-ranjan12345&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-ranjan12345&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
 
 ---
 

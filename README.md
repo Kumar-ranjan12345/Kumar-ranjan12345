@@ -55,7 +55,7 @@ TraceView helps developers monitor application behavior, inspect events, track l
 
 🔗 Repository: https://github.com/Kumar-ranjan12345/TraceView-iOS-real-time-app-observability-dashboard
 
-**Tech Stack:** Swift, UIKit
+**Tech Stack:** Swift, UIKit, Next.js, Typescript
 
 ---
 

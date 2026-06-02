@@ -24,23 +24,23 @@ Building production-grade native applications and exploring backend systems, dis
 
 Mobile Software Engineer with experience building and shipping native Android and iOS applications.
 
-My primary expertise lies in Swift, UIKit, SwiftUI, Kotlin, and Android development, with a strong focus on clean architecture, maintainable codebases, performance optimization, and scalable application design.
+My primary expertise lies in Swift, UIKit, SwiftUI, Kotlin, and Android development, with a strong focus on clean architecture, maintainable codebases, performance optimization, and UI design.
 
-Beyond mobile development, I'm actively expanding into backend engineering, distributed systems, databases, and large-scale system design to better understand the systems powering modern applications.
+Beyond mobile development, I'm actively expanding learning backend engineering, open-source iOS libraries,  distributed systems, databases, and large-scale system design to better understand the systems powering modern applications.
 
 ---
 
 ## Experience & Interests
 
 - 📱 Native iOS Development (Swift, UIKit, SwiftUI)
-- 🤖 Native Android Development (Kotlin, Java)
+- 🤖 Native Android Development (Kotlin, Java, Jetpack Compose(Learning))
 - 🏗 Clean Architecture & MVVM
 - 🧩 Modular Architecture
 - 🚀 Performance Optimization
 - 📦 SDK Integration & Development
-- 🔄 CI/CD & Release Management
+- 🔄 CI/CD & Release Management ( Fastlane )
 - 🌐 Backend Development (Go - Learning)
-- 🏛 System Design & Distributed Systems
+- 🏛 System Design & Distributed Systems (Learning)
 - 📚 Data Structures & Algorithms
 
 ---
@@ -49,7 +49,11 @@ Beyond mobile development, I'm actively expanding into backend engineering, dist
 
 ### 🚀 TraceView
 
-A lightweight debugging and tracing utility designed to improve visibility into application behavior and simplify troubleshooting.
+Real-time observability and debugging dashboard for iOS applications.
+
+TraceView helps developers monitor application behavior, inspect events, track logs, and gain visibility into runtime execution for faster debugging and troubleshooting.
+
+🔗 Repository: https://github.com/Kumar-ranjan12345/TraceView-iOS-real-time-app-observability-dashboard
 
 **Tech Stack:** Swift, UIKit
 
@@ -57,7 +61,11 @@ A lightweight debugging and tracing utility designed to improve visibility into 
 
 ### 👆 SwipeBackKit
 
-A customizable gesture-navigation framework for iOS applications that provides enhanced swipe-back experiences while maintaining native behavior.
+A customizable gesture-navigation framework for iOS applications that enhances the native swipe-back experience while maintaining smooth integration with UIKit navigation flows.
+
+🔗 Repository: https://github.com/Kumar-ranjan12345/SwipeBackKit
+
+📦 CocoaPods: https://cocoapods.org/pods/SwipeBackKit
 
 **Tech Stack:** Swift
 
@@ -113,7 +121,7 @@ Built to improve code safety, application integrity, and security best practices
 - Databases
 - Kubernetes
 - Cloud Infrastructure
-- Advanced System Design
+- System Design
 
 ---
 
@@ -122,18 +130,6 @@ Built to improve code safety, application integrity, and security best practices
 My long-term goal is to evolve from a mobile engineer into a full-stack systems engineer capable of designing, building, and scaling products end-to-end.
 
 I'm currently investing heavily in backend engineering, databases, distributed systems, and large-scale architecture while continuing to deepen my expertise in native mobile development.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-ranjan12345&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-ranjan12345&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 

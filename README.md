@@ -20,12 +20,7 @@ I build production iOS and Android apps, developer tools, and the Go services be
 
 ## About
 
-Mobile engineer building and shipping production native apps, with hands-on work in digital identity and secure authentication:
-
-- Face authentication and liveness detection flows
-- Verifiable credential sharing over QR (OpenID4VP)
-- Signed app-to-app intents and secure OTP-based verification
-- Multi-step enrolment flows backed by REST APIs
+I build secure, production-grade software at scale. I work across iOS, Android and backend, focused on identity, authentication and privacy.
 
 **Skills**
 
